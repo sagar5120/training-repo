@@ -6,7 +6,7 @@ function About() {
     return (
         <>
             <div>
-                <Banner title="about " subtitle="here i am" description="oke i am" />
+                <Banner title="about " subtitle="here i am" description="okey i am" />
                 about section
             </div>
             
